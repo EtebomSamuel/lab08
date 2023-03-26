@@ -1,3 +1,3 @@
 import hashlib
 
-print (hashlib.md5(b"Hello").hexdigest())
+print (hashlib.md5(b"hello").hexdigest())
